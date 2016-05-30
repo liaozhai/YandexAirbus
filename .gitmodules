@@ -1,0 +1,3 @@
+[submodule "external/BaseQualifier"]
+	path = external/BaseQualifier
+	url = https://github.com/liaozhai/BaseQualifier.git
